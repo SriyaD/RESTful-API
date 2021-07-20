@@ -1,2 +1,2 @@
 # RESTful-API
-A RESTFUL API with feautures to post update delete patch and put
+A RESTful API with feautures to post update delete patch and put
